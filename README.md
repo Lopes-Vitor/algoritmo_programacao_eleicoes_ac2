@@ -14,3 +14,4 @@
      - Imprimir a quantidade de votos em branco
    - **Fim Enquanto**
 - **FIM**
+![isso e uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_eleicoes_ac2/blob/main/DiagramaEleicoes.png)
